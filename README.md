@@ -9,4 +9,5 @@
 
 <br>
 
-![Pipeline Overview 1](https://github.com/gjmichel/twitter-sentiment-analysis/blob/main/results/cluster_visualization.jpg)
+# 2. Results step by step
+![Clustering results](https://github.com/gjmichel/twitter-sentiment-analysis/blob/main/results/cluster_visualization.jpg)
