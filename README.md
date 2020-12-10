@@ -1,5 +1,7 @@
 # twitter-sentiment-analysis
 
+I'm currently updating this repo and adding materials.
+
 # 1. Pipeline Overview 
 ![Pipeline Overview 1](https://github.com/gjmichel/twitter-sentiment-analysis/blob/main/results/pipeline_overview_1.jpg)
 
